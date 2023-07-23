@@ -1,5 +1,5 @@
-# python-methods-cheatsheet
-# Python Built-in Methods and Functions
+# Python-Functions-Methods-Cheatsheet
+# Python Built-in Functions and Methods 
 This repository serves as a comprehensive reference guide for built-in methods and functions in Python. It provides an organized collection of commonly used methods and functions available in the Python Standard Library, covering various data types and functionalities.
 
 ## Content Index
